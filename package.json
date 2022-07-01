@@ -1,0 +1,23 @@
+{
+  "name": "typescript-desafios",
+  "version": "1.0.0",
+  "description": "Resolução de uma série de desafios proposta nos cursos da DIO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxceleste/typescript-desafios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxceleste/typescript-desafios/issues"
+  },
+  "homepage": "https://github.com/Maxceleste/typescript-desafios#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.7.4"
+  }
+}
