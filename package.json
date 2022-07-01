@@ -4,7 +4,8 @@
   "description": "Resolução de uma série de desafios proposta nos cursos da DIO.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
   },
   "repository": {
     "type": "git",
