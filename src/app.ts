@@ -1,1 +1,0 @@
-console.log('Testando ts aqui');
